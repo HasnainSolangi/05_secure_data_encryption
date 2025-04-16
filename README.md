@@ -131,7 +131,10 @@ streamlit run secure_data_encryption.py
 
 ## 🖼️ Screenshots
 
-![screenshot](https://via.placeholder.com/900x500?text=Secure+Data+Encryption+System+%7C+Streamlit+UI)
+![sdes](https://github.com/user-attachments/assets/1fc778b2-2923-4194-9e68-32e5cfe72f7c)
+
+---
+![sdes1](https://github.com/user-attachments/assets/0c40fb92-34ca-4067-b70f-b46072145a60)
 
 ---
 
